@@ -1,0 +1,7 @@
+{
+    "require": {
+        "stripe/stripe-php": "^14.4",
+      "ext-fileinfo": "*",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}

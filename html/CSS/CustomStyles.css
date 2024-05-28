@@ -1,0 +1,18 @@
+body {
+   background-color: #4b4b4b;
+}
+nav {
+    background-color: #656565;
+}
+.card {
+    width : 18rem;
+}
+.card-img-top {
+    height: 14rem;
+    width: auto;
+    object-fit: cover;
+}
+#AddingCard {
+    width: 18rem;
+    background-color: #656565;
+}
