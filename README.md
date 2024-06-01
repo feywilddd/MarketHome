@@ -1,5 +1,5 @@
 # MarketHome
-
+![page d'acceuil](./img/home.png)
 ### Création de la Bd
 
 1. Se connecter à PHPMyAdmin (port :8080)
